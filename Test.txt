@@ -1,6 +1,6 @@
 print("hello, world")
 float health; // добавление хп
-
+float jumpForce;
 
 print("Test brench"
 print("test brenchhh")
