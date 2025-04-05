@@ -1,1 +1,6 @@
-print("hello, world")
+print("Nothing")
+print("Test")
+a = 1
+b = 2
+a+b = z
+print(z)
